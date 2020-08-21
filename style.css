@@ -30,7 +30,7 @@ body
     left: 150px;
     background-image: url("./Background/images/L.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 500px 1000px;
     background-position: 50%;
     filter: blur(-4px);
     -webkit-filter: blur(-30px);
